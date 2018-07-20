@@ -41,7 +41,7 @@ To do this just delete what you don't want, including the `<<<<<<<`, `=======`, 
 
 ## Using terminal or GitBash
 
-This is just a basic protocol for using git via command line. This proceedure will let you keep a local version of the files on your machine. 
+This is just a basic protocol for using git via command line. This procedure will let you keep a local version of the files on your machine. 
 
 * clone repo to your account if not already there. You can copy the URL from the green button. (Here the `$` just means the beginning of your command line.)
 ``` 
@@ -57,7 +57,7 @@ This is just a basic protocol for using git via command line. This proceedure wi
 ```
 	REPO-NAME$ git commit -am 'message'
 ```
-* Pull new changes from server.
+* Pull new changes from server. At this point you might have to fix conflicts. To do this goto the conflicted file and search for the `<<<<<<<`, `=======`, or `>>>>>>>` as above. 
 ```
 	REPO-NAME$ git pull
 ```
