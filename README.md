@@ -5,6 +5,7 @@ Add more if you want.
 
 * [GitHub for noobs](https://www.youtube.com/results?search_query=github+for+noobs)
 * [Hello World](https://guides.github.com/activities/hello-world/#repository )
+* [Git for Mathematicians](https://www.konradvoelkel.com/wp-content/uploads/git-for-math.pdf)
 
 ## Using the web interface
 
