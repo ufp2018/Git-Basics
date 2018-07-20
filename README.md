@@ -3,9 +3,10 @@
 ## Helpful websites
 Add more if you want. 
 
-* [GitHub for noobs](https://www.youtube.com/results?search_query=github+for+noobs)
-* [Hello World](https://guides.github.com/activities/hello-world/#repository )
-* [Git for Mathematicians](https://www.konradvoelkel.com/wp-content/uploads/git-for-math.pdf)
+* [GitHub for noobs (videos)](https://www.youtube.com/results?search_query=github+for+noobs)
+* [Hello World (example repository)](https://guides.github.com/activities/hello-world/#repository )
+* [Git for Mathematicians (slides)](https://www.konradvoelkel.com/wp-content/uploads/git-for-math.pdf)
+* [Git Pocket Reference (book)](https://www.amazon.com/Git-Pocket-Guide-Working-Introduction/dp/1449325866/)
 
 ## Using the web interface
 
