@@ -45,25 +45,25 @@ This is just a basic protocol for using git via command line. This proceedure wi
 
 * clone repo to your account if not already there. You can copy the URL from the green button. (Here the `$` just means the beginning of your command line.)
 ``` 
-$ git clone https://github.com/ufp2018/REPO-NAME.git
+	$ git clone https://github.com/ufp2018/REPO-NAME.git
 ```
 * At this point you can edit at will. Once finished with edits, you will need to add and commit changes. Make sure you are in the repo (navigate with `cd` and `ls`). 
 * You can view the status of the commits 
 * Adding all new files (tells git what files to track):
 ``` 
-REPO-NAME$ git add .
+	REPO-NAME$ git add .
  ```
 * Commit your changes
 ```
-REPO-NAME$ git commit -a -m 'message'
+	REPO-NAME$ git commit -am 'message'
 ```
 * Pull new changes from server.
 ```
-REPO-NAME$ git pull
+	REPO-NAME$ git pull
 ```
 * Push your changes to server.
 ```
-REPO-NAME$ git pull
+	REPO-NAME$ git pull
 ```
 
 
